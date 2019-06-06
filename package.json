@@ -15,6 +15,7 @@
   "style": "dist/css/bootstrap-italia.min.css",
   "main": "dist/js/bootstrap-italia.min.js",
   "scripts": {
+    "prepare": "npm run build",
     "start": "gulp serve",
     "build": "gulp build",
     "documentation-build": "bundle exec jekyll build",
