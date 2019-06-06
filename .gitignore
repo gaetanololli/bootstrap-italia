@@ -2,7 +2,6 @@
 _site
 
 # Ignore dist files
-dist
 docs/assets/dist
 
 # Ignore ruby files
