@@ -826,7 +826,7 @@ Applicando una classe aggiuntiva `.toolbar-vertical` alla Toolbar gli elementi v
 </nav>
 {% endcapture %}{% include example.html content=example %}
 
-### Piccola verticale 
+### Piccola verticale
 
 {% capture example %}
 <nav class="toolbar toolbar-small toolbar-vertical">

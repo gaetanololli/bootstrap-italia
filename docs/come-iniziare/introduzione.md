@@ -125,7 +125,7 @@ In breve, si dovrebbe ottenere qualcosa di simile a ciò che segue:
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
+
     <!-- CSS -->
     <link rel="stylesheet" href="./bootstrap-italia.min.css">
   </head>
